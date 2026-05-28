@@ -33,7 +33,7 @@ Matlab codes for the analyses performed for the manuscript titled "Neural Repres
 - D2class_Decoding: Function running the support vector machine classification
 - Second_Level_Decoding_control: Script running the 2nd level one-sample t-test for all control analyses
 
-#### Behavioural Analyses
+### Behavioural Analyses
 - ANOVA_three_way: Script running a three-way repeated measures ANOVA (factors: rule, stimulus order, f1 frequency)
 
 ### Required software packages and toolboxes: 
