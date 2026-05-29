@@ -20,9 +20,7 @@ Matlab codes for the analyses performed for the manuscript titled "Neural Repres
 - Second_Level_Decoding_SVM: Script running the 2nd level one-sample t-test
 
 #### Cross-Study Analyses
-- t_test_SVM: Batch script for the conjunction
-- t_test_job_SVM: setting up the conjunction
-- Estimate_job_SVM: Parameter estimation for the conjunction
+- Cross_study_analyses: Code running the cross-study analyses (including the cross-study t-Test and the conjunction)
 
 #### Control Analyses
 - Decoding_Batch_control: Batch for the Support Vector Machine classification for motor response and rule decoding
